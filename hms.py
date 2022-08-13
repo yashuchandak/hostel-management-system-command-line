@@ -1,5 +1,3 @@
-# from ast import For
-from msvcrt import getch
 import mysql.connector  as mysql 
 import smtplib
 from email.message import EmailMessage
